@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "..\\Animation"
+		},
+		{
+			"path": "..\\2D,3D transform"
+		},
+		{
+			"path": "..\\3D transform"
+		},
+		{
+			"path": "..\\transition"
+		},
+		{
+			"path": "..\\responsive image"
+		},
+		{
+			"path": "..\\responsive-image-tnayin"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "responsive-image-tnayin"
+	}
+}
